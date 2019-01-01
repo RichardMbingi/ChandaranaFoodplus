@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/home"
+            android:icon="@drawable/ic_icon_home"
+            android:title="Home"
+            />
+        <item android:id="@+id/wishlist"
+            android:icon="@drawable/ic_path"
+            android:title="Wishlist"
+            />
+        <item android:id="@+id/cart"
+            android:icon="@drawable/ic_purchase"
+            android:title="Cart"
+            />
+        <item android:id="@+id/categories"
+            android:icon="@drawable/ic_apps"
+            android:title="Categories"
+            />
+        <item android:id="@+id/promos"
+            android:icon="@drawable/ic_promos"
+            android:title="Promos"
+            />
+        <item android:id="@+id/loyaltycredit"
+            android:icon="@drawable/ic_icon_money_bag"
+            android:title="Loyalty Credit"
+            />
+        <item android:id="@+id/settings"
+            android:icon="@drawable/ic_icon_setting"
+            android:title="Settings"
+            />
+        <item android:id="@+id/contactus"
+            android:icon="@drawable/ic_icon_inbox"
+            android:title="Contact Us"
+            />
+
+    </group>
+
+</menu>
